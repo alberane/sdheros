@@ -1,0 +1,25 @@
+{
+    "name": "alberane/sdheros.alberane.net",
+    "description": "Software para artigo do mestrado",
+    "type": "project",
+    "require": {
+        "silex/silex": "^2.3",
+        "symfony/twig-bridge": "^4.1",
+        "symfony/var-dumper": "^4.1.0",
+        "doctrine/dbal": "~2.2",
+        "symfony/process": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alberane Lucio",
+            "email": "alberanelucio@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"
+        }
+    },
+    "minimum-stability": "beta"
+}
