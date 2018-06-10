@@ -1,6 +1,6 @@
 {
     "name": "alberane/sdheros.alberane.net",
-    "description": "Software para artigo do mestrado",
+    "description": "Ferramenta de análise sobre desbalanceamento de responsabilidades em projetos de software",
     "type": "project",
     "require": {
         "silex/silex": "^2.3",
@@ -9,7 +9,7 @@
         "doctrine/dbal": "~2.2",
         "symfony/process": "^4.1"
     },
-    "license": "MIT",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Alberane Lucio",
