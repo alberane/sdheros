@@ -1,14 +1,14 @@
-#SD-Heros (beta)
+# SD-Heros (beta)
 (...)
 
-##Instalação
+## Instalação
 
 1. `git clone git@github.com:alberane/sdheros.git`
 2. `composer install`
 3. `php -S localhost:8000 -t public public/index.php`
 4. No navegador... <http://localhost:8000>
 
-##Usando Apache
+## Usando Apache
 Arquivo `/etc/apache2/sites-enable/sdheros.conf`
  
 ```apacheconfig
