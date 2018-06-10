@@ -1,4 +1,8 @@
 # SD-Heros (beta)
+
+Ferramenta de análise sobre desbalanceamento de responsabilidades em projetos de software
+
+
 (...)
 
 ## Instalação
